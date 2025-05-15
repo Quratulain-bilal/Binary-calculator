@@ -61,7 +61,7 @@ st.write(f"🟢 **Binary of {num2}:** `{to_binary(num2)}`")
 
 st.write("---")
 
-# Bitwise Operations
+# Bitwise Operation
 st.write("## 🔢 Bitwise Operations with Explanation")
 st.write(f"✅ **AND (&) →** `{num1 & num2}` (Binary: `{to_binary(num1 & num2)}`) → Common bits remain 1")
 st.write(f"✅ **OR (|) →** `{num1 | num2}` (Binary: `{to_binary(num1 | num2)}`) → Any bit being 1 results in 1")
