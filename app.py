@@ -1,3 +1,4 @@
+#BInaray calculator
 import streamlit as st
 
 # Function to convert decimal to 8-bit binary
