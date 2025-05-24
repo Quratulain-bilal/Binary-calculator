@@ -18,7 +18,7 @@ def binary_info():
       - **Binary of 5 = 101** (Read from bottom to top)
     """)
 
-# Binary Chart Function
+# Binary funcions chart
 def binary_chart():
     st.write("### 🧮 Binary Conversion Chart (0-15)")
     chart_data = {i: to_binary(i) for i in range(16)}
