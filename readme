@@ -30,9 +30,6 @@ Edit
 pip install -r requirements.txt
 4️⃣ Run the app:
 
-bash
-Copy
-Edit
 streamlit run app.py
 📚 Understanding Binary & Bitwise Operators
 🔢 Binary Number System
