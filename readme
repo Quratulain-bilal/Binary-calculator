@@ -17,16 +17,11 @@ This app allows users to **convert decimal to binary**, **visualize bitwise oper
 # 📌 How to Run the App?
 
 1️⃣ Install **Python** (if not installed)  
-2️⃣ Clone this repository:
-
+2️⃣ Clone this reposito
 ```bash
 git clone https://github.com/yourusername/binary-bitwise-calculator.git
 cd binary-bitwise-calculator
 3️⃣ Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 4️⃣ Run the app:
 
