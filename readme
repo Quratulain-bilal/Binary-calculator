@@ -18,7 +18,6 @@ This app allows users to **convert decimal to binary**, **visualize bitwise oper
 
 1️⃣ Install **Python** (if not installed)  
 2️⃣ Clone this reposito
-```bash
 git clone https://github.com/yourusername/binary-bitwise-calculator.git
 cd binary-bitwise-calculator
 3️⃣ Install dependencies:
